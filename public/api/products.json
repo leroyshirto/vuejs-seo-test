@@ -1,0 +1,50 @@
+[
+    {
+        "id": "c2af6ffe-d380-46e0-86f6-922ddf729ca3",
+        "name": "Sleek Cotton Cheese",
+        "description": "Warm and smooth cheesy cheese",
+        "image": "https://picsum.photos/640/360"
+    },
+    {
+        "id": "5e8faeb9-c649-40e6-92b8-f2026a99bb4b",
+        "name": "Handcrafted Wooden Chicken",
+        "description": "Great tasting chicken",
+        "image": "https://picsum.photos/640/360"
+    },
+    {
+        "id": "a2eb3ea2-1ece-4287-9920-9d61782945d7",
+        "name": "Licensed Rubber Shirt",
+        "description": "For when you really need it",
+        "image": "https://picsum.photos/640/360"
+    },
+    {
+        "id": "b1df9728-acdd-4d71-b6ba-a87028f018e4",
+        "name": "Refined Granite Shoes",
+        "description": "The toughest shoes around",
+        "image": "https://picsum.photos/640/360"
+    },
+    {
+        "id": "446e3bc0-52a1-4ea5-8468-45cd231fb795",
+        "name": "Unbranded Rubber Gloves",
+        "description": "No one need ever know",
+        "image": "https://picsum.photos/640/360"
+    },
+    {
+        "id": "d8eb5275-b444-4856-9233-838206115277",
+        "name": "Intelligent Rubber Cheese",
+        "description": "Great tast, great chew",
+        "image": "https://picsum.photos/640/360"
+    },
+    {
+        "id": "84e33124-18d6-4e19-b218-dc0d29b1182e",
+        "name": "Awesome Steel Gloves",
+        "description": "For the hardest of handy men",
+        "image": "https://picsum.photos/640/360"
+    },
+    {
+        "id": "04fee9c6-5b9c-440c-bf99-bb5a292ac071",
+        "name": "Ergonomic Metal Keyboard",
+        "description": "Tappity tap tap tap",
+        "image": "https://picsum.photos/640/360"
+    }
+]
